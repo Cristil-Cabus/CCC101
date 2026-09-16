@@ -1,2 +1,3 @@
-# CCC101
-Problem solving &amp; Version Control
+# CCC101 Laboratory Activities
+
+Name
