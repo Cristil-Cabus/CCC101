@@ -1,0 +1,3 @@
+I developed and verified both solutions by breaking each problem into smaller steps, identifying the input, processes, and outputs, writing the decomposition and pseudocode, and performing dry runs using the given test
+cases. For the notebook and pen problem, I checked the total cost and change, while for the canteen problem, I verified that the 10% discount was applied only to the rice meal subtotal and that the packaging fee was added
+after. Organized and committing my files in Git helped document my work by keeping the solutions organized, tracking changes, and preserving each stage of my progress.
