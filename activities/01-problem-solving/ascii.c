@@ -1,6 +1,20 @@
-#include <stdio.h>
+  ^~!7??JJYYYY55555P555PPPPPPPPPP5J7!^:::::~^^:::::^^:\n");
+printf("                    ... .   :^~7??JJJYYYYYYY555555555PPPPP55YJ7!^::::.^^:::::.::^.\n");
+printf("                    ..  .   :~!7777????JJJYYYY55555YYJJ?7777?JJ?7~^::.:::.::...:::\n");
+printf("                    ..      :^~~~~~~~~~~~!7?JYYY5YYJ??777?JY5555Y?~^^:..:.......:^.\n");
+printf("                   ..       :~!77?????77!!77?JJY55YYJJ?7!~~~~~!7??!~^^:..:.......::\n");
+printf("                   ..       ^!77!!~~^^^^~!!!!7JY5P5YJ?!~!:..^!~^~!77~^^:..........^.\n");
+printf("                  ...       ^!!~^::^^::^~~!?77?YPGP5P5?7??7?JYYYYYYJ?7~^:.........::\n");
+printf("                  :.        ~!7!!!!77????????7J5GGPPPPP5YYY555PPPGP5YY?~^::........::\n");
+printf("                 .:.        ~7777????JJJJJJ???Y5GBGGGGGGPPPPPPPGGGGGP5YJ!::........::\n");
+printf("                  :..       ^7??JJJYYYYYYY???J5PGBGGGGGPPPPPPGGGBGGGGPPY?^::.......::\n");
+printf("                 .:..       :7??JJYYYY5YY?7??Y5P.GBBBGGGP555PPPGGGBGGGGP5J!~^    ....:\n");
+printf("                  ::.       .!7??JJYYYYYJ7?J??JY5PPPPGGG55555PPPGGGG#include <stdio.h>
+
 int  main (void)
+
 {
+
 printf("                                               ......\n");
 printf("                                         ..:^:::::::::::::..\n");
 printf("                                   ..::^^^^^:............::^^:..\n");
@@ -16,7 +30,7 @@ printf("                      :..:.   .:~!7?JJYYYY5555555555555YJ?!~~^:::.^~~^^~
 printf("                      :..:    :^~!??JJYYYYY555555555PPP55Y?!!~^:::.^!~^^^^^^^^:\n");
 printf("                     .....   .^~!7??JJYYYY5555555PPPPPPP55Y?7!~^::.:~~~^^^^^^^^.\n");
 printf("                     .....  .:~!!7?JJYYYY55555555PPPPPPPPP5YJ7!~:::::~~^^^^:^^^^\n");
-printf("                     :...   .^~!7??JJYYYY55555P555PPPPPPPPPP5J7!^:::::~^^:::::^^:\n");
+^~!7??JJYYYY55555P555PPPPPPPPPP5J7!^:::::~^^:::::^^:\n");
 printf("                    ... .   :^~7??JJJYYYYYYY555555555PPPPP55YJ7!^::::.^^:::::.::^.\n");
 printf("                    ..  .   :~!7777????JJJYYYY55555YYJJ?7777?JJ?7~^::.:::.::...:::\n");
 printf("                    ..      :^~~~~~~~~~~~!7?JYYY5YYJ??777?JY5555Y?~^^:..:.......:^.\n");
@@ -26,8 +40,9 @@ printf("                  ...       ^!!~^::^^::^~~!?77?YPGP5P5?7??7?JYYYYYYJ?7~^
 printf("                  :.        ~!7!!!!77????????7J5GGPPPPP5YYY555PPPGP5YY?~^::........::\n");
 printf("                 .:.        ~7777????JJJJJJ???Y5GBGGGGGGPPPPPPPGGGGGP5YJ!::........::\n");
 printf("                  :..       ^7??JJJYYYYYYY???J5PGBGGGGGPPPPPPGGGBGGGGPPY?^::.......::\n");
-printf("                 .:..       :7??JJYYYY5YY?7??Y5PGBBBGGGP555PPPGGGBGGGGP5J!~^    ....:\n");
-printf("                  ::.       .!7??JJYYYYYJ7?J??JY5PPPPGGG55555PPPGGGGGGPPY!^.     ...:.\n");
+printf("                 .:..       :7??JJYYYY5YY?7??Y5P.GBBBGGGP555PPPGGGBGGGGP5J!~^    ....:\n");
+printf("                  ::.       .!7??JJYYYYYJ7?J??JY5PPPPGGG55555PPPGGGG#include <stdio.h>
+printf("                     :... GGPPY!^.     ...:.\n");
 printf("                  .::        :7???JJYYYJ?77?7!7?JJJ??J5PGGP55555PPPGGGGPY.    ..  ..^.\n");
 printf("                   :^.        ^7???????????????JYJYPGGGGGP5Y5555PPGGGGPY:  ...::. .::\n");
 printf("                   .^..        ~???????7!~!!!!!!!777777?JJJY55PPPPGGPPY:   ...^: ..::\n");
@@ -63,5 +78,7 @@ printf("       ............  ......................JBGGGGGGPP555Y?!.....::::::::
 printf("       .............  .....................~GBGGGGPP55YY?7^ .....:::::::......:::.....:.:::::::::::.\n");
 printf("          ........... ......................YBBGGGP5YYJJ7~....................::...:::::::::::::::..\n");
 printf("           ..........  .....................7BBGGGP5JJ??!:....................:....................\n"); 
+
 return 0;
+
 }
